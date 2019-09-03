@@ -18,5 +18,4 @@ To run this project you just need to follow some steps:
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# crud_laravel
 # laravel_standard
