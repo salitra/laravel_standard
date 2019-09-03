@@ -1,0 +1,6 @@
+@include('template.header')
+@include('template.navigation')
+@yield('style')
+@yield('content')
+@yield('script')
+@include('template.footer')
